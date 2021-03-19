@@ -1,0 +1,20 @@
+---
+title: "01_analysis1"
+author: "Deepak Tanwar"
+date: "2021-03-19"
+output: workflowr::wflow_html
+editor_options:
+  chunk_output_type: console
+---
+
+## Introduction
+
+```{r}
+plot(1:10)
+```
+
+The plot looks great.
+
+## Dicussion
+
+The discussion is not written

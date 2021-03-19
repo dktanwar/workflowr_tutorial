@@ -9,3 +9,8 @@ editor_options:
 ---
 
 Welcome to my research website.
+
+
+## List of analysis
+
+1. [Made a barplot](01_analysis1.html)
